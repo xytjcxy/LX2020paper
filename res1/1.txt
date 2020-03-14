@@ -1,0 +1,122 @@
+Epoch: 1/25
+Epoch: 001, Training: Loss: 0.8036, Accuracy: 55.0000%, 
+		Validation: Loss: 0.8036, Accuracy: 50.0000%, Time: 152.7131s
+Best Accuracy for validation : 0.5000 at epoch 001
+C:\Users\a\AppData\Local\Programs\Python\Python37\lib\site-packages\torch\serialization.py:292: UserWarning: Couldn't retrieve source code for container of type ResNet. It won't be checked for correctness upon loading.
+  "type " + obj.__name__ + ". It won't be checked "
+C:\Users\a\AppData\Local\Programs\Python\Python37\lib\site-packages\torch\serialization.py:292: UserWarning: Couldn't retrieve source code for container of type Conv2d. It won't be checked for correctness upon loading.
+  "type " + obj.__name__ + ". It won't be checked "
+C:\Users\a\AppData\Local\Programs\Python\Python37\lib\site-packages\torch\serialization.py:292: UserWarning: Couldn't retrieve source code for container of type BatchNorm2d. It won't be checked for correctness upon loading.
+  "type " + obj.__name__ + ". It won't be checked "
+C:\Users\a\AppData\Local\Programs\Python\Python37\lib\site-packages\torch\serialization.py:292: UserWarning: Couldn't retrieve source code for container of type ReLU. It won't be checked for correctness upon loading.
+  "type " + obj.__name__ + ". It won't be checked "
+C:\Users\a\AppData\Local\Programs\Python\Python37\lib\site-packages\torch\serialization.py:292: UserWarning: Couldn't retrieve source code for container of type MaxPool2d. It won't be checked for correctness upon loading.
+  "type " + obj.__name__ + ". It won't be checked "
+C:\Users\a\AppData\Local\Programs\Python\Python37\lib\site-packages\torch\serialization.py:292: UserWarning: Couldn't retrieve source code for container of type Sequential. It won't be checked for correctness upon loading.
+  "type " + obj.__name__ + ". It won't be checked "
+C:\Users\a\AppData\Local\Programs\Python\Python37\lib\site-packages\torch\serialization.py:292: UserWarning: Couldn't retrieve source code for container of type Bottleneck. It won't be checked for correctness upon loading.
+  "type " + obj.__name__ + ". It won't be checked "
+C:\Users\a\AppData\Local\Programs\Python\Python37\lib\site-packages\torch\serialization.py:292: UserWarning: Couldn't retrieve source code for container of type AdaptiveAvgPool2d. It won't be checked for correctness upon loading.
+  "type " + obj.__name__ + ". It won't be checked "
+C:\Users\a\AppData\Local\Programs\Python\Python37\lib\site-packages\torch\serialization.py:292: UserWarning: Couldn't retrieve source code for container of type Linear. It won't be checked for correctness upon loading.
+  "type " + obj.__name__ + ". It won't be checked "
+C:\Users\a\AppData\Local\Programs\Python\Python37\lib\site-packages\torch\serialization.py:292: UserWarning: Couldn't retrieve source code for container of type Dropout. It won't be checked for correctness upon loading.
+  "type " + obj.__name__ + ". It won't be checked "
+C:\Users\a\AppData\Local\Programs\Python\Python37\lib\site-packages\torch\serialization.py:292: UserWarning: Couldn't retrieve source code for container of type LogSoftmax. It won't be checked for correctness upon loading.
+  "type " + obj.__name__ + ". It won't be checked "
+Epoch: 2/25
+Epoch: 002, Training: Loss: 0.5929, Accuracy: 53.7500%, 
+		Validation: Loss: 0.5929, Accuracy: 50.0000%, Time: 146.4086s
+Best Accuracy for validation : 0.5000 at epoch 001
+Epoch: 3/25
+Epoch: 003, Training: Loss: 0.5137, Accuracy: 55.0000%, 
+		Validation: Loss: 0.5137, Accuracy: 75.0000%, Time: 146.3148s
+Best Accuracy for validation : 0.7500 at epoch 003
+Epoch: 4/25
+Epoch: 004, Training: Loss: 0.5043, Accuracy: 71.2500%, 
+		Validation: Loss: 0.5043, Accuracy: 50.0000%, Time: 146.0557s
+Best Accuracy for validation : 0.7500 at epoch 003
+Epoch: 5/25
+Epoch: 005, Training: Loss: 0.4239, Accuracy: 76.2500%, 
+		Validation: Loss: 0.4239, Accuracy: 85.0000%, Time: 145.4501s
+Best Accuracy for validation : 0.8500 at epoch 005
+Epoch: 6/25
+Epoch: 006, Training: Loss: 0.3209, Accuracy: 87.5000%, 
+		Validation: Loss: 0.3209, Accuracy: 100.0000%, Time: 145.0672s
+Best Accuracy for validation : 1.0000 at epoch 006
+Epoch: 7/25
+Epoch: 007, Training: Loss: 0.2895, Accuracy: 90.0000%, 
+		Validation: Loss: 0.2895, Accuracy: 100.0000%, Time: 144.9206s
+Best Accuracy for validation : 1.0000 at epoch 006
+Epoch: 8/25
+Epoch: 008, Training: Loss: 0.2433, Accuracy: 91.2500%, 
+		Validation: Loss: 0.2433, Accuracy: 100.0000%, Time: 145.1111s
+Best Accuracy for validation : 1.0000 at epoch 006
+Epoch: 9/25
+Epoch: 009, Training: Loss: 0.2134, Accuracy: 97.5000%, 
+		Validation: Loss: 0.2134, Accuracy: 100.0000%, Time: 145.3135s
+Best Accuracy for validation : 1.0000 at epoch 006
+Epoch: 10/25
+Epoch: 010, Training: Loss: 0.2015, Accuracy: 95.0000%, 
+		Validation: Loss: 0.2015, Accuracy: 100.0000%, Time: 148.3062s
+Best Accuracy for validation : 1.0000 at epoch 006
+Epoch: 11/25
+Epoch: 011, Training: Loss: 0.1725, Accuracy: 97.5000%, 
+		Validation: Loss: 0.1725, Accuracy: 100.0000%, Time: 147.2653s
+Best Accuracy for validation : 1.0000 at epoch 006
+Epoch: 12/25
+Epoch: 012, Training: Loss: 0.1467, Accuracy: 95.0000%, 
+		Validation: Loss: 0.1467, Accuracy: 100.0000%, Time: 146.0356s
+Best Accuracy for validation : 1.0000 at epoch 006
+Epoch: 13/25
+Epoch: 013, Training: Loss: 0.1881, Accuracy: 92.5000%, 
+		Validation: Loss: 0.1881, Accuracy: 100.0000%, Time: 146.0485s
+Best Accuracy for validation : 1.0000 at epoch 006
+Epoch: 14/25
+Epoch: 014, Training: Loss: 0.1064, Accuracy: 98.7500%, 
+		Validation: Loss: 0.1064, Accuracy: 100.0000%, Time: 147.8677s
+Best Accuracy for validation : 1.0000 at epoch 006
+Epoch: 15/25
+Epoch: 015, Training: Loss: 0.0859, Accuracy: 95.0000%, 
+		Validation: Loss: 0.0859, Accuracy: 100.0000%, Time: 147.1985s
+Best Accuracy for validation : 1.0000 at epoch 006
+Epoch: 16/25
+Epoch: 016, Training: Loss: 0.2148, Accuracy: 98.7500%, 
+		Validation: Loss: 0.2148, Accuracy: 100.0000%, Time: 146.9621s
+Best Accuracy for validation : 1.0000 at epoch 006
+Epoch: 17/25
+Epoch: 017, Training: Loss: 0.0641, Accuracy: 97.5000%, 
+		Validation: Loss: 0.0641, Accuracy: 100.0000%, Time: 145.9029s
+Best Accuracy for validation : 1.0000 at epoch 006
+Epoch: 18/25
+Epoch: 018, Training: Loss: 0.0937, Accuracy: 95.0000%, 
+		Validation: Loss: 0.0937, Accuracy: 100.0000%, Time: 145.4591s
+Best Accuracy for validation : 1.0000 at epoch 006
+Epoch: 19/25
+Epoch: 019, Training: Loss: 0.1937, Accuracy: 95.0000%, 
+		Validation: Loss: 0.1937, Accuracy: 100.0000%, Time: 144.3421s
+Best Accuracy for validation : 1.0000 at epoch 006
+Epoch: 20/25
+Epoch: 020, Training: Loss: 0.0465, Accuracy: 95.0000%, 
+		Validation: Loss: 0.0465, Accuracy: 100.0000%, Time: 143.8434s
+Best Accuracy for validation : 1.0000 at epoch 006
+Epoch: 21/25
+Epoch: 021, Training: Loss: 0.0406, Accuracy: 100.0000%, 
+		Validation: Loss: 0.0406, Accuracy: 100.0000%, Time: 144.4987s
+Best Accuracy for validation : 1.0000 at epoch 006
+Epoch: 22/25
+Epoch: 022, Training: Loss: 0.0469, Accuracy: 100.0000%, 
+		Validation: Loss: 0.0469, Accuracy: 100.0000%, Time: 147.0444s
+Best Accuracy for validation : 1.0000 at epoch 006
+Epoch: 23/25
+Epoch: 023, Training: Loss: 0.0815, Accuracy: 100.0000%, 
+		Validation: Loss: 0.0815, Accuracy: 100.0000%, Time: 145.6506s
+Best Accuracy for validation : 1.0000 at epoch 006
+Epoch: 24/25
+Epoch: 024, Training: Loss: 0.0392, Accuracy: 100.0000%, 
+		Validation: Loss: 0.0392, Accuracy: 100.0000%, Time: 145.1061s
+Best Accuracy for validation : 1.0000 at epoch 006
+Epoch: 25/25
+Epoch: 025, Training: Loss: 0.0372, Accuracy: 98.7500%, 
+		Validation: Loss: 0.0372, Accuracy: 100.0000%, Time: 145.4192s
+Best Accuracy for validation : 1.0000 at epoch 006
